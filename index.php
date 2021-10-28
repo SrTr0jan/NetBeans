@@ -10,7 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-        // put your code here
+        echo "Hola, esto es un proyecto de prueba en PHP para GitHub con NetBeans."
         ?>
     </body>
 </html>
